@@ -171,7 +171,7 @@
         "reason": "bot_account",
         "timestamp": 1560837934,
         "twitch_id": "175993635",
-        "twitch_name": "jodja1337"
+        "twitch_name": "hostmeraffle"
     },
     {
         "reason": "bot_account",
@@ -556,5 +556,29 @@
         "timestamp": 1560840366,
         "twitch_id": "147920659",
         "twitch_name": "arok151"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1560844980,
+        "twitch_id": "135870398",
+        "twitch_name": "distinctbot"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1560936613,
+        "twitch_id": "195473795",
+        "twitch_name": "elpinguino00"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1560936653,
+        "twitch_id": "411820546",
+        "twitch_name": "rgevskiy66"
+    },
+    {
+        "reason": "me_self",
+        "timestamp": 1561085318,
+        "twitch_id": "163946717",
+        "twitch_name": "artificialdefensedroid"
     }
 ]
