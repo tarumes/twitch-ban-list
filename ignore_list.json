@@ -604,5 +604,17 @@
         "timestamp": 1561232109,
         "twitch_id": "435577666",
         "twitch_name": "yzculahol649"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1561242561,
+        "twitch_id": "421302356",
+        "twitch_name": "notthecuulduud"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1561243413,
+        "twitch_id": "219035160",
+        "twitch_name": "my__goddess"
     }
 ]
