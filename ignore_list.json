@@ -580,5 +580,29 @@
         "timestamp": 1561085318,
         "twitch_id": "163946717",
         "twitch_name": "artificialdefensedroid"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561232020,
+        "twitch_id": "439865539",
+        "twitch_name": "dabretope310"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561232034,
+        "twitch_id": "439861227",
+        "twitch_name": "incedone754"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561232062,
+        "twitch_id": "436302435",
+        "twitch_name": "brittutacon725"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561232109,
+        "twitch_id": "435577666",
+        "twitch_name": "yzculahol649"
     }
 ]
