@@ -640,5 +640,11 @@
         "timestamp": 1561508292,
         "twitch_id": "91011035",
         "twitch_name": "patriotsfan0502"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561583495,
+        "twitch_id": "213450104",
+        "twitch_name": "ninjawizard101"
     }
 ]
