@@ -616,5 +616,29 @@
         "timestamp": 1561243413,
         "twitch_id": "219035160",
         "twitch_name": "my__goddess"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1561247365,
+        "twitch_id": "172437051",
+        "twitch_name": "mascarponebot"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561255154,
+        "twitch_id": "438788656",
+        "twitch_name": "pleximcito917"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1561508244,
+        "twitch_id": "443717778",
+        "twitch_name": "luggus420"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561508292,
+        "twitch_id": "91011035",
+        "twitch_name": "patriotsfan0502"
     }
 ]
