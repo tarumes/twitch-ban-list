@@ -646,5 +646,35 @@
         "timestamp": 1561583495,
         "twitch_id": "213450104",
         "twitch_name": "ninjawizard101"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1561716120,
+        "twitch_id": "435791683",
+        "twitch_name": "zuthasecour281"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1561716174,
+        "twitch_id": "443831076",
+        "twitch_name": "ennesbatttur"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1561716302,
+        "twitch_id": "444309469",
+        "twitch_name": "dierothaarigeschlampe1"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1561716324,
+        "twitch_id": "126512645",
+        "twitch_name": "hawkidiedi"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1561716387,
+        "twitch_id": "253226635",
+        "twitch_name": "figg_mors"
     }
 ]
