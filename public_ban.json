@@ -676,5 +676,11 @@
         "timestamp": 1561716387,
         "twitch_id": "253226635",
         "twitch_name": "figg_mors"
+    },
+    {
+        "reason": "spam",
+        "timestamp": 1561751602,
+        "twitch_id": "437169086",
+        "twitch_name": "kyender_yt"
     }
 ]
