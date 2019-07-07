@@ -682,5 +682,77 @@
         "timestamp": 1561751602,
         "twitch_id": "437169086",
         "twitch_name": "kyender_yt"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1562002415,
+        "twitch_id": "157358706",
+        "twitch_name": "jaywade_3"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1562002489,
+        "twitch_id": "126960013",
+        "twitch_name": "mrmr8i"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1562002512,
+        "twitch_id": "152281291",
+        "twitch_name": "lachanfall"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1562002533,
+        "twitch_id": "429153856",
+        "twitch_name": "akramlefou"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1562144334,
+        "twitch_id": "438741732",
+        "twitch_name": "dickesonja"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1562144365,
+        "twitch_id": "220678147",
+        "twitch_name": "hashtagupset"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1562527712,
+        "twitch_id": "123485652",
+        "twitch_name": "xxan_naxx"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1562528021,
+        "twitch_id": "440959063",
+        "twitch_name": "ciocalldenta291"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1562528047,
+        "twitch_id": "440567334",
+        "twitch_name": "esmarduta839"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1562528251,
+        "twitch_id": "441632455",
+        "twitch_name": "kicarzieso238"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1562528340,
+        "twitch_id": "413936518",
+        "twitch_name": "pa_jaronroe"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1562528366,
+        "twitch_id": "435176786",
+        "twitch_name": "rinfiasiocet632"
     }
 ]
