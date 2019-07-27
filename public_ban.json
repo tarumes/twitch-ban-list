@@ -495,13 +495,13 @@
         "reason": "trolling",
         "timestamp": 1560839848,
         "twitch_id": "429945399",
-        "twitch_name": "throwawayuntilunban"
+        "twitch_name": "blackedonthebeach"
     },
     {
         "reason": "harassment",
         "timestamp": 1560839917,
         "twitch_id": "410940203",
-        "twitch_name": "aimz_michi"
+        "twitch_name": "michipsi"
     },
     {
         "reason": "harassment",
@@ -754,5 +754,71 @@
         "timestamp": 1562528366,
         "twitch_id": "435176786",
         "twitch_name": "rinfiasiocet632"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262054,
+        "twitch_id": "450554677",
+        "twitch_name": "deans_kainsmal"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1564262087,
+        "twitch_id": "435974084",
+        "twitch_name": "mepogittu416"
+    },
+    {
+        "reason": "malicious_links",
+        "timestamp": 1564262098,
+        "twitch_id": "435768585",
+        "twitch_name": "broweasvefe165"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262158,
+        "twitch_id": "450159329",
+        "twitch_name": "odsiffuhsiuhdfiusfdisd"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262181,
+        "twitch_id": "450163531",
+        "twitch_name": "hallodiesdassssss"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262203,
+        "twitch_id": "423916530",
+        "twitch_name": "krasserficker888"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1564262320,
+        "twitch_id": "448547583",
+        "twitch_name": "18comming"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262344,
+        "twitch_id": "225004727",
+        "twitch_name": "maxhes987"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1564262454,
+        "twitch_id": "433696667",
+        "twitch_name": "tombo2306"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1564262474,
+        "twitch_id": "79465379",
+        "twitch_name": "maxaman18"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1564263116,
+        "twitch_id": "274093708",
+        "twitch_name": "mausii1234567"
     }
 ]
