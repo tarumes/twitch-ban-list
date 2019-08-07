@@ -537,7 +537,7 @@
         "reason": "trolling",
         "timestamp": 1560840138,
         "twitch_id": "190121004",
-        "twitch_name": "l2_imsorry_btw"
+        "twitch_name": "nquaaa"
     },
     {
         "reason": "spam",
@@ -820,5 +820,23 @@
         "timestamp": 1564263116,
         "twitch_id": "274093708",
         "twitch_name": "mausii1234567"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1565028164,
+        "twitch_id": "216750524",
+        "twitch_name": "mondschweinii"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1565199078,
+        "twitch_id": "453132285",
+        "twitch_name": "eichelkaese_nascher_"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1565199087,
+        "twitch_id": "452868900",
+        "twitch_name": "allstar_vip"
     }
 ]
