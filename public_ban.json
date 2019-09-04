@@ -543,7 +543,7 @@
         "reason": "spam",
         "timestamp": 1560840167,
         "twitch_id": "433451251",
-        "twitch_name": "kuxzyfn"
+        "twitch_name": "brian1x"
     },
     {
         "reason": "malicious_links",
@@ -801,7 +801,7 @@
         "reason": "harassment",
         "timestamp": 1564262344,
         "twitch_id": "225004727",
-        "twitch_name": "maxhes987"
+        "twitch_name": "maxhes270"
     },
     {
         "reason": "harassment",
@@ -838,5 +838,35 @@
         "timestamp": 1565199087,
         "twitch_id": "452868900",
         "twitch_name": "allstar_vip"
+    },
+    {
+        "reason": "sexual_requests",
+        "timestamp": 1565636068,
+        "twitch_id": "101421529",
+        "twitch_name": "atlendorsd"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1565636081,
+        "twitch_id": "119745125",
+        "twitch_name": "resonstream"
+    },
+    {
+        "reason": "trolling",
+        "timestamp": 1566076062,
+        "twitch_id": "455351063",
+        "twitch_name": "wanze1896"
+    },
+    {
+        "reason": "harassment",
+        "timestamp": 1566076078,
+        "twitch_id": "455349671",
+        "twitch_name": "peterchens_freund"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1566246616,
+        "twitch_id": "84945193",
+        "twitch_name": "lilmackibot"
     }
 ]
