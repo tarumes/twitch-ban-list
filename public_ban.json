@@ -880,5 +880,3449 @@
         "timestamp": 1569183290,
         "twitch_id": "188655263",
         "twitch_name": "alfredjudokus817"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184115,
+        "twitch_id": "209715008",
+        "twitch_name": "winsock"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184151,
+        "twitch_id": "64753410",
+        "twitch_name": "itsvodoo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184169,
+        "twitch_id": "43148905",
+        "twitch_name": "xatang"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184178,
+        "twitch_id": "164722600",
+        "twitch_name": "cryma"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184189,
+        "twitch_id": "30293639",
+        "twitch_name": "jnkchris"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184207,
+        "twitch_id": "13264843",
+        "twitch_name": "freast"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184215,
+        "twitch_id": "119098213",
+        "twitch_name": "deep5"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184220,
+        "twitch_id": "23058568",
+        "twitch_name": "toxic_cat"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184224,
+        "twitch_id": "245301044",
+        "twitch_name": "1111azazazel1111"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184229,
+        "twitch_id": "270816899",
+        "twitch_name": "twitchprimereminder"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184902,
+        "twitch_id": "191731041",
+        "twitch_name": "norkdorf"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184905,
+        "twitch_id": "403326697",
+        "twitch_name": "pocrevocrednu"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184908,
+        "twitch_id": "257266530",
+        "twitch_name": "royalestreamers"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184910,
+        "twitch_id": "93914621",
+        "twitch_name": "logviewer"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184913,
+        "twitch_id": "140779317",
+        "twitch_name": "scomttv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184916,
+        "twitch_id": "279147585",
+        "twitch_name": "divarion"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184919,
+        "twitch_id": "49594022",
+        "twitch_name": "agantor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184921,
+        "twitch_id": "180484173",
+        "twitch_name": "jamofdestiny"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184929,
+        "twitch_id": "240758277",
+        "twitch_name": "grizzilk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184932,
+        "twitch_id": "52694414",
+        "twitch_name": "mikuia"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184935,
+        "twitch_id": "233740941",
+        "twitch_name": "lurkernetwork"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184938,
+        "twitch_id": "413607686",
+        "twitch_name": "lurk24"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184940,
+        "twitch_id": "37611275",
+        "twitch_name": "kestalkayden"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184943,
+        "twitch_id": "141099660",
+        "twitch_name": "streamfinity"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184946,
+        "twitch_id": "80634293",
+        "twitch_name": "rutonybot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184948,
+        "twitch_id": "148580412",
+        "twitch_name": "ssakdook"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184951,
+        "twitch_id": "252405343",
+        "twitch_name": "paytv50"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184954,
+        "twitch_id": "404676128",
+        "twitch_name": "adreou"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184957,
+        "twitch_id": "162613513",
+        "twitch_name": "wehypebot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184959,
+        "twitch_id": "170141236",
+        "twitch_name": "sonnenbrot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184962,
+        "twitch_id": "99308836",
+        "twitch_name": "sunred_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184965,
+        "twitch_id": "245275460",
+        "twitch_name": "botmart"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184968,
+        "twitch_id": "413386708",
+        "twitch_name": "smallstreamerssupporter"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184970,
+        "twitch_id": "79048616",
+        "twitch_name": "thedigitallink"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184973,
+        "twitch_id": "411597101",
+        "twitch_name": "hosthighway"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184976,
+        "twitch_id": "136649030",
+        "twitch_name": "scratdesign"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184978,
+        "twitch_id": "264314815",
+        "twitch_name": "maxwell_bo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184981,
+        "twitch_id": "417571586",
+        "twitch_name": "thestreamqueens"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184984,
+        "twitch_id": "224641229",
+        "twitch_name": "uehebot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184987,
+        "twitch_id": "273603041",
+        "twitch_name": "llorx_falso"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184989,
+        "twitch_id": "402924399",
+        "twitch_name": "aa_s_4_quitters"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184992,
+        "twitch_id": "218589064",
+        "twitch_name": "lordofthelurkers"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184995,
+        "twitch_id": "21420933",
+        "twitch_name": "seniorpomidor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569184998,
+        "twitch_id": "229964854",
+        "twitch_name": "streamholics"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185000,
+        "twitch_id": "40286300",
+        "twitch_name": "randers"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185003,
+        "twitch_id": "423372563",
+        "twitch_name": "lurk_rts"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185006,
+        "twitch_id": "401444247",
+        "twitch_name": "hosttrader"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185008,
+        "twitch_id": "173406154",
+        "twitch_name": "ck8t"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185011,
+        "twitch_id": "445675580",
+        "twitch_name": "c612c"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185014,
+        "twitch_id": "450073583",
+        "twitch_name": "the_hosting_asylum"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185017,
+        "twitch_id": "29977110",
+        "twitch_name": "cinfol"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185019,
+        "twitch_id": "166401837",
+        "twitch_name": "murrflex"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185022,
+        "twitch_id": "39500300",
+        "twitch_name": "enrixeb"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185027,
+        "twitch_id": "68361528",
+        "twitch_name": "trifelife"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185030,
+        "twitch_id": "171719379",
+        "twitch_name": "sickfold"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185033,
+        "twitch_id": "152008168",
+        "twitch_name": "scratchdee"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185036,
+        "twitch_id": "142795218",
+        "twitch_name": "psycho561"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185038,
+        "twitch_id": "127607747",
+        "twitch_name": "nodurex4you"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185041,
+        "twitch_id": "79328905",
+        "twitch_name": "lukix29"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185044,
+        "twitch_id": "127460863",
+        "twitch_name": "galisibbi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185047,
+        "twitch_id": "416457782",
+        "twitch_name": "woos_bot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185049,
+        "twitch_id": "182701081",
+        "twitch_name": "tookills"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185052,
+        "twitch_id": "160251516",
+        "twitch_name": "ruuza"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185055,
+        "twitch_id": "84828860",
+        "twitch_name": "infinity5362"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185058,
+        "twitch_id": "41344510",
+        "twitch_name": "woopr"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185060,
+        "twitch_id": "410871069",
+        "twitch_name": "secretlyyours"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185063,
+        "twitch_id": "74255814",
+        "twitch_name": "cwar97"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185066,
+        "twitch_id": "85777964",
+        "twitch_name": "riddlerthe"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185069,
+        "twitch_id": "406076227",
+        "twitch_name": "dhinz7"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185071,
+        "twitch_id": "38863035",
+        "twitch_name": "peter677"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185074,
+        "twitch_id": "271961439",
+        "twitch_name": "psrts"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185077,
+        "twitch_id": "85210121",
+        "twitch_name": "overrustlelogs"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185080,
+        "twitch_id": "26296756",
+        "twitch_name": "bge508"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185082,
+        "twitch_id": "462957291",
+        "twitch_name": "meowsterio"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185085,
+        "twitch_id": "41547489",
+        "twitch_name": "fitzay"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185088,
+        "twitch_id": "21258856",
+        "twitch_name": "dbc__"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185090,
+        "twitch_id": "141995876",
+        "twitch_name": "trueexposed"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185093,
+        "twitch_id": "46254642",
+        "twitch_name": "shouman"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185096,
+        "twitch_id": "116418466",
+        "twitch_name": "miitcherino"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185099,
+        "twitch_id": "66572876",
+        "twitch_name": "lipster09"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185101,
+        "twitch_id": "404464339",
+        "twitch_name": "hoyt_topflight"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185104,
+        "twitch_id": "236056019",
+        "twitch_name": "warpmemories"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185107,
+        "twitch_id": "116840182",
+        "twitch_name": "9kmmrbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185110,
+        "twitch_id": "44106097",
+        "twitch_name": "pete0death"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185112,
+        "twitch_id": "5589393",
+        "twitch_name": "geekofix"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185118,
+        "twitch_id": "71012299",
+        "twitch_name": "cptteempo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185120,
+        "twitch_id": "52151918",
+        "twitch_name": "socom_steven"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185123,
+        "twitch_id": "246834262",
+        "twitch_name": "garvsehgal98"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185126,
+        "twitch_id": "421701693",
+        "twitch_name": "skottrick"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185129,
+        "twitch_id": "106638978",
+        "twitch_name": "sadjacob__"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185131,
+        "twitch_id": "138760387",
+        "twitch_name": "amazeful"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185134,
+        "twitch_id": "32608651",
+        "twitch_name": "ackrosgliceas"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185137,
+        "twitch_id": "95941264",
+        "twitch_name": "mirrobot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185140,
+        "twitch_id": "446759403",
+        "twitch_name": "lolrankbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185142,
+        "twitch_id": "121771218",
+        "twitch_name": "dr_twidsch"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185145,
+        "twitch_id": "130205432",
+        "twitch_name": "spaenny"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185148,
+        "twitch_id": "144551958",
+        "twitch_name": "oncefamousgaming"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185150,
+        "twitch_id": "92966860",
+        "twitch_name": "hallowokirschsaft"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185153,
+        "twitch_id": "63188815",
+        "twitch_name": "sodawelle"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185156,
+        "twitch_id": "29708140",
+        "twitch_name": "miki_57"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185159,
+        "twitch_id": "111472430",
+        "twitch_name": "itz_sam09"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185161,
+        "twitch_id": "463733306",
+        "twitch_name": "lafmile"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185164,
+        "twitch_id": "103858721",
+        "twitch_name": "rekhit"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185167,
+        "twitch_id": "46209051",
+        "twitch_name": "buttsbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185169,
+        "twitch_id": "409063514",
+        "twitch_name": "nztweber"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185172,
+        "twitch_id": "437404699",
+        "twitch_name": "felanbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185175,
+        "twitch_id": "463733005",
+        "twitch_name": "easy0_25"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185178,
+        "twitch_id": "73144964",
+        "twitch_name": "beaverboybc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185180,
+        "twitch_id": "38066107",
+        "twitch_name": "subzer0_26"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185183,
+        "twitch_id": "78203657",
+        "twitch_name": "seelenkerker"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185186,
+        "twitch_id": "51501334",
+        "twitch_name": "ishkah_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185189,
+        "twitch_id": "31878227",
+        "twitch_name": "satistarr"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185191,
+        "twitch_id": "31339565",
+        "twitch_name": "nt_x"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185194,
+        "twitch_id": "56939006",
+        "twitch_name": "phefo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185197,
+        "twitch_id": "463738128",
+        "twitch_name": "maxxe34"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185199,
+        "twitch_id": "154881127",
+        "twitch_name": "firstworldbrat"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185202,
+        "twitch_id": "8221636",
+        "twitch_name": "sir_light"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185205,
+        "twitch_id": "48456810",
+        "twitch_name": "lillypain"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185208,
+        "twitch_id": "46922492",
+        "twitch_name": "craigu"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185210,
+        "twitch_id": "118874335",
+        "twitch_name": "betterdayy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185213,
+        "twitch_id": "63857956",
+        "twitch_name": "forsale18"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185216,
+        "twitch_id": "453843706",
+        "twitch_name": "djaaay_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185219,
+        "twitch_id": "463735092",
+        "twitch_name": "celtics_yvitor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185221,
+        "twitch_id": "463737769",
+        "twitch_name": "upect"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185224,
+        "twitch_id": "463694173",
+        "twitch_name": "plk18"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185227,
+        "twitch_id": "61553468",
+        "twitch_name": "fayan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185230,
+        "twitch_id": "142496429",
+        "twitch_name": "fallenofchaos"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185232,
+        "twitch_id": "400285729",
+        "twitch_name": "volvoxtriton"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185235,
+        "twitch_id": "126037346",
+        "twitch_name": "lattemotte"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185238,
+        "twitch_id": "90169254",
+        "twitch_name": "einfachwir"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185241,
+        "twitch_id": "50217577",
+        "twitch_name": "beangamingtv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185243,
+        "twitch_id": "100947907",
+        "twitch_name": "aleexog_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185246,
+        "twitch_id": "462013500",
+        "twitch_name": "thehostnetwork"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185249,
+        "twitch_id": "460769462",
+        "twitch_name": "nuras"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185251,
+        "twitch_id": "53331741",
+        "twitch_name": "lightsim"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185257,
+        "twitch_id": "463723311",
+        "twitch_name": "caprambulante"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185260,
+        "twitch_id": "433946179",
+        "twitch_name": "daghostytwitchbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185262,
+        "twitch_id": "408166019",
+        "twitch_name": "onstreambot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185265,
+        "twitch_id": "463734509",
+        "twitch_name": "raysuraych"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185268,
+        "twitch_id": "257102368",
+        "twitch_name": "fiveshots"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185271,
+        "twitch_id": "448442600",
+        "twitch_name": "streamachine"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185273,
+        "twitch_id": "38947982",
+        "twitch_name": "makruu"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185276,
+        "twitch_id": "62847413",
+        "twitch_name": "flusi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185279,
+        "twitch_id": "463735715",
+        "twitch_name": "dakunebrotheris"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185281,
+        "twitch_id": "25498154",
+        "twitch_name": "coziest"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185284,
+        "twitch_id": "10060180",
+        "twitch_name": "choupachupss"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185287,
+        "twitch_id": "431864277",
+        "twitch_name": "the1lawlessllama"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185290,
+        "twitch_id": "76155788",
+        "twitch_name": "jdo432"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185292,
+        "twitch_id": "145678712",
+        "twitch_name": "hodoram111"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185295,
+        "twitch_id": "179285770",
+        "twitch_name": "zombie_ee"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185298,
+        "twitch_id": "43375913",
+        "twitch_name": "thefun"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185301,
+        "twitch_id": "60322404",
+        "twitch_name": "rans4cker"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185303,
+        "twitch_id": "75740909",
+        "twitch_name": "price41_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185306,
+        "twitch_id": "80166395",
+        "twitch_name": "obeycrow"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185309,
+        "twitch_id": "117173898",
+        "twitch_name": "nerfscuttler"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185311,
+        "twitch_id": "25641230",
+        "twitch_name": "nedd44"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185314,
+        "twitch_id": "64607960",
+        "twitch_name": "kyippee"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185317,
+        "twitch_id": "37633400",
+        "twitch_name": "eric_slovenian89"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185320,
+        "twitch_id": "178538989",
+        "twitch_name": "senadani"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185322,
+        "twitch_id": "154858546",
+        "twitch_name": "h1rulelive"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185325,
+        "twitch_id": "208736588",
+        "twitch_name": "fenalidar"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185328,
+        "twitch_id": "155857524",
+        "twitch_name": "dazums"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185331,
+        "twitch_id": "428936844",
+        "twitch_name": "daaarling02"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185333,
+        "twitch_id": "255000530",
+        "twitch_name": "totally_not_a_bot_tk421"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185336,
+        "twitch_id": "44932814",
+        "twitch_name": "pugpuggy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185339,
+        "twitch_id": "463738958",
+        "twitch_name": "kxlioo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185342,
+        "twitch_id": "80391768",
+        "twitch_name": "ejeuc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185344,
+        "twitch_id": "93760464",
+        "twitch_name": "diggooo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185347,
+        "twitch_id": "65016519",
+        "twitch_name": "anonymous_nobody_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185350,
+        "twitch_id": "147950640",
+        "twitch_name": "teischente"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185352,
+        "twitch_id": "152928815",
+        "twitch_name": "streamkit"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185355,
+        "twitch_id": "225884215",
+        "twitch_name": "kilmore007"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185358,
+        "twitch_id": "72918139",
+        "twitch_name": "emil3161"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185361,
+        "twitch_id": "152030943",
+        "twitch_name": "dotogoto"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185363,
+        "twitch_id": "140223316",
+        "twitch_name": "xjiggitsx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185366,
+        "twitch_id": "463735279",
+        "twitch_name": "uccidi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185369,
+        "twitch_id": "36175310",
+        "twitch_name": "tetyys"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185372,
+        "twitch_id": "130210698",
+        "twitch_name": "sn0rcky"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185374,
+        "twitch_id": "32606779",
+        "twitch_name": "rsherms"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185377,
+        "twitch_id": "51466494",
+        "twitch_name": "lurkfulwarrior"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185380,
+        "twitch_id": "28808906",
+        "twitch_name": "hayenn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185383,
+        "twitch_id": "236087423",
+        "twitch_name": "dorienabg"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185385,
+        "twitch_id": "157667177",
+        "twitch_name": "dj_spirit_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185388,
+        "twitch_id": "410364629",
+        "twitch_name": "altheasal"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185391,
+        "twitch_id": "463738258",
+        "twitch_name": "yt_i_thirusan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185393,
+        "twitch_id": "42932565",
+        "twitch_name": "teddyxd"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185396,
+        "twitch_id": "130354840",
+        "twitch_name": "pocketplaysbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185399,
+        "twitch_id": "26224516",
+        "twitch_name": "mauldropper"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185402,
+        "twitch_id": "50953094",
+        "twitch_name": "kousa"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185404,
+        "twitch_id": "36976198",
+        "twitch_name": "josejaviergud"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185407,
+        "twitch_id": "220551762",
+        "twitch_name": "jimmyjongos"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185410,
+        "twitch_id": "51143784",
+        "twitch_name": "gensnake"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185412,
+        "twitch_id": "120799631",
+        "twitch_name": "da__shinks"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185415,
+        "twitch_id": "75111092",
+        "twitch_name": "curtisvalentine"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185418,
+        "twitch_id": "463739210",
+        "twitch_name": "corentin7940"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185421,
+        "twitch_id": "451206642",
+        "twitch_name": "xtrocate"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185423,
+        "twitch_id": "151205076",
+        "twitch_name": "streamdeckerbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185426,
+        "twitch_id": "52420483",
+        "twitch_name": "rafalo15"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185429,
+        "twitch_id": "74625790",
+        "twitch_name": "oori_o"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185432,
+        "twitch_id": "280172441",
+        "twitch_name": "miafeelgood"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185434,
+        "twitch_id": "35609713",
+        "twitch_name": "hammixo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185437,
+        "twitch_id": "414494105",
+        "twitch_name": "ebenny23"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185440,
+        "twitch_id": "165966026",
+        "twitch_name": "easy___going"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185442,
+        "twitch_id": "91845306",
+        "twitch_name": "caisesiume"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185445,
+        "twitch_id": "35619378",
+        "twitch_name": "8466321"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185448,
+        "twitch_id": "71815505",
+        "twitch_name": "thomasmemesxd"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185451,
+        "twitch_id": "463727165",
+        "twitch_name": "ph_1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185454,
+        "twitch_id": "172918850",
+        "twitch_name": "frxnke"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185456,
+        "twitch_id": "102920643",
+        "twitch_name": "freehornpubsux"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185459,
+        "twitch_id": "53922196",
+        "twitch_name": "check834"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185462,
+        "twitch_id": "166915813",
+        "twitch_name": "binplate"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185465,
+        "twitch_id": "136745148",
+        "twitch_name": "alucain"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185467,
+        "twitch_id": "41146931",
+        "twitch_name": "vagabundo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185470,
+        "twitch_id": "23038469",
+        "twitch_name": "tuffjuice"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185473,
+        "twitch_id": "94730445",
+        "twitch_name": "trampel81"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185476,
+        "twitch_id": "181744802",
+        "twitch_name": "sincityac"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185478,
+        "twitch_id": "7004506",
+        "twitch_name": "ravager01"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185481,
+        "twitch_id": "463727871",
+        "twitch_name": "matheocant"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185484,
+        "twitch_id": "463734392",
+        "twitch_name": "hiiiiiiiiiiiiiiiiiii9"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185487,
+        "twitch_id": "2605276",
+        "twitch_name": "haveoc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185489,
+        "twitch_id": "198833313",
+        "twitch_name": "elfamosopeste2samuse"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185492,
+        "twitch_id": "104380748",
+        "twitch_name": "edomer"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185495,
+        "twitch_id": "446686201",
+        "twitch_name": "chaoticstupidd36"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185497,
+        "twitch_id": "238437082",
+        "twitch_name": "weirdfeels"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185500,
+        "twitch_id": "44060265",
+        "twitch_name": "skumbagnostrebor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185503,
+        "twitch_id": "149143157",
+        "twitch_name": "sisterwomanbilla"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185506,
+        "twitch_id": "85425294",
+        "twitch_name": "romokk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185508,
+        "twitch_id": "115472644",
+        "twitch_name": "psittacusdemo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185511,
+        "twitch_id": "463723394",
+        "twitch_name": "lukas090205"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185514,
+        "twitch_id": "113472799",
+        "twitch_name": "loliloving"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185517,
+        "twitch_id": "44112361",
+        "twitch_name": "executive06"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185519,
+        "twitch_id": "86161570",
+        "twitch_name": "enkor182"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185522,
+        "twitch_id": "173705085",
+        "twitch_name": "dizasterlive"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185525,
+        "twitch_id": "463736447",
+        "twitch_name": "diesereinesandro2"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185527,
+        "twitch_id": "59895482",
+        "twitch_name": "bungmonkey"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185530,
+        "twitch_id": "104889625",
+        "twitch_name": "beast_fin"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185533,
+        "twitch_id": "159926212",
+        "twitch_name": "badmojo1942"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185536,
+        "twitch_id": "463732047",
+        "twitch_name": "auureliee"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185538,
+        "twitch_id": "109650629",
+        "twitch_name": "silverglaade"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185541,
+        "twitch_id": "121458425",
+        "twitch_name": "shipbroman"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185544,
+        "twitch_id": "245626071",
+        "twitch_name": "rokuya_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185547,
+        "twitch_id": "39124141",
+        "twitch_name": "ragequiter99"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185549,
+        "twitch_id": "463739065",
+        "twitch_name": "ohberdose"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185552,
+        "twitch_id": "104351717",
+        "twitch_name": "nekopara"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185555,
+        "twitch_id": "112018468",
+        "twitch_name": "kevamk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185557,
+        "twitch_id": "193607994",
+        "twitch_name": "herrheil"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185560,
+        "twitch_id": "463571087",
+        "twitch_name": "gatieeen"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185563,
+        "twitch_id": "186481966",
+        "twitch_name": "creamket_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185566,
+        "twitch_id": "66153718",
+        "twitch_name": "bustopher"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185568,
+        "twitch_id": "118308764",
+        "twitch_name": "admiralgibbs101"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185571,
+        "twitch_id": "463727434",
+        "twitch_name": "tiwch_f0xzzy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185574,
+        "twitch_id": "154532946",
+        "twitch_name": "stay_degraded_bot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185576,
+        "twitch_id": "31748798",
+        "twitch_name": "shadowblaze21"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185579,
+        "twitch_id": "407894418",
+        "twitch_name": "nks_steve"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185582,
+        "twitch_id": "87595556",
+        "twitch_name": "mertvetc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185585,
+        "twitch_id": "463738789",
+        "twitch_name": "matsklauth2311"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185587,
+        "twitch_id": "87370550",
+        "twitch_name": "man_darronious"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185590,
+        "twitch_id": "26832127",
+        "twitch_name": "impulse_9"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185593,
+        "twitch_id": "452730928",
+        "twitch_name": "ersanttv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185595,
+        "twitch_id": "92249310",
+        "twitch_name": "d9141809"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185598,
+        "twitch_id": "46677081",
+        "twitch_name": "brexile"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185601,
+        "twitch_id": "97665880",
+        "twitch_name": "almostsp"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185604,
+        "twitch_id": "42163359",
+        "twitch_name": "vulpeshd"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185606,
+        "twitch_id": "27811906",
+        "twitch_name": "ulcor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185609,
+        "twitch_id": "46750847",
+        "twitch_name": "thequax"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185612,
+        "twitch_id": "240255583",
+        "twitch_name": "smallstreamersconnect"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185614,
+        "twitch_id": "463734903",
+        "twitch_name": "ptacek_kiki"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185617,
+        "twitch_id": "71657007",
+        "twitch_name": "olusiaa_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185620,
+        "twitch_id": "112080604",
+        "twitch_name": "no_plan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185623,
+        "twitch_id": "85610951",
+        "twitch_name": "n3td3v"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185625,
+        "twitch_id": "463739011",
+        "twitch_name": "mc_mighty_mc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185628,
+        "twitch_id": "146977376",
+        "twitch_name": "i1dan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185631,
+        "twitch_id": "93149248",
+        "twitch_name": "emilweth"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185633,
+        "twitch_id": "463728126",
+        "twitch_name": "brandon_mercadon_verified"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185636,
+        "twitch_id": "161545684",
+        "twitch_name": "bigbadbrad_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185639,
+        "twitch_id": "236250703",
+        "twitch_name": "xsteiny"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185642,
+        "twitch_id": "134924736",
+        "twitch_name": "vitallikn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185644,
+        "twitch_id": "37244123",
+        "twitch_name": "tommylans"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185647,
+        "twitch_id": "463729710",
+        "twitch_name": "syslik1301miki"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185650,
+        "twitch_id": "138410189",
+        "twitch_name": "supitsmoe"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185653,
+        "twitch_id": "40379362",
+        "twitch_name": "sinris"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185655,
+        "twitch_id": "126153582",
+        "twitch_name": "rilaveon"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185658,
+        "twitch_id": "107936131",
+        "twitch_name": "orignalgreywolf"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185661,
+        "twitch_id": "103771581",
+        "twitch_name": "mistercreepz"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185663,
+        "twitch_id": "102820450",
+        "twitch_name": "metalt33"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185666,
+        "twitch_id": "72001969",
+        "twitch_name": "lania"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185669,
+        "twitch_id": "49384455",
+        "twitch_name": "knaxor"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185672,
+        "twitch_id": "97777484",
+        "twitch_name": "jacuz_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185674,
+        "twitch_id": "232404117",
+        "twitch_name": "itsmario87"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185677,
+        "twitch_id": "463732968",
+        "twitch_name": "daniielmarcos"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185680,
+        "twitch_id": "148255326",
+        "twitch_name": "botisimo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185683,
+        "twitch_id": "28566078",
+        "twitch_name": "arnofps"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185685,
+        "twitch_id": "116948144",
+        "twitch_name": "agarthand"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185688,
+        "twitch_id": "462330812",
+        "twitch_name": "50315733"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185691,
+        "twitch_id": "188949924",
+        "twitch_name": "zombieocean"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185694,
+        "twitch_id": "463733429",
+        "twitch_name": "yipikaii85"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185696,
+        "twitch_id": "35889528",
+        "twitch_name": "xeodk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185699,
+        "twitch_id": "39127626",
+        "twitch_name": "whataboutgaminglive"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185702,
+        "twitch_id": "49592407",
+        "twitch_name": "vassimall"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185704,
+        "twitch_id": "77663820",
+        "twitch_name": "takearod"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185707,
+        "twitch_id": "62550533",
+        "twitch_name": "pipiro"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185710,
+        "twitch_id": "173832426",
+        "twitch_name": "outtietv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185713,
+        "twitch_id": "463738223",
+        "twitch_name": "kununu"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185715,
+        "twitch_id": "36808126",
+        "twitch_name": "kharad"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185718,
+        "twitch_id": "62452355",
+        "twitch_name": "jimidnight"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185721,
+        "twitch_id": "463725934",
+        "twitch_name": "jcristinaa"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185723,
+        "twitch_id": "132670554",
+        "twitch_name": "iandy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185726,
+        "twitch_id": "122268019",
+        "twitch_name": "foxems"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185729,
+        "twitch_id": "23881313",
+        "twitch_name": "domman"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185732,
+        "twitch_id": "463726730",
+        "twitch_name": "diego1214"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185734,
+        "twitch_id": "215268185",
+        "twitch_name": "craex"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185737,
+        "twitch_id": "35756117",
+        "twitch_name": "coeninjapan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185740,
+        "twitch_id": "68377352",
+        "twitch_name": "alrex"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185831,
+        "twitch_id": "414542883",
+        "twitch_name": "kineticliquorson"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185850,
+        "twitch_id": "447685927",
+        "twitch_name": "battlevsviewers"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185857,
+        "twitch_id": "156463545",
+        "twitch_name": "songlistbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185871,
+        "twitch_id": "463741663",
+        "twitch_name": "arseniy323245"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185875,
+        "twitch_id": "112646809",
+        "twitch_name": "cmonbill"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185880,
+        "twitch_id": "213177587",
+        "twitch_name": "puptime"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185894,
+        "twitch_id": "463740270",
+        "twitch_name": "chocolatinhu008"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185970,
+        "twitch_id": "107461505",
+        "twitch_name": "masterboom7thday"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569185998,
+        "twitch_id": "161606476",
+        "twitch_name": "peaceful_fire"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186003,
+        "twitch_id": "463739094",
+        "twitch_name": "oursillustre"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186031,
+        "twitch_id": "438145512",
+        "twitch_name": "terrydavislives"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186047,
+        "twitch_id": "137100594",
+        "twitch_name": "graveyard2883"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186052,
+        "twitch_id": "47556435",
+        "twitch_name": "acecasper"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186061,
+        "twitch_id": "268031908",
+        "twitch_name": "betadwarfbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186066,
+        "twitch_id": "461415573",
+        "twitch_name": "kilmore007hosting"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186075,
+        "twitch_id": "64424426",
+        "twitch_name": "sheeryjay"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186082,
+        "twitch_id": "463741661",
+        "twitch_name": "frostyalmondmilk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186112,
+        "twitch_id": "463741432",
+        "twitch_name": "the_shockerxx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186114,
+        "twitch_id": "103768949",
+        "twitch_name": "clonetz1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186119,
+        "twitch_id": "68779824",
+        "twitch_name": "maldozerr"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186198,
+        "twitch_id": "47428421",
+        "twitch_name": "mopynatv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186256,
+        "twitch_id": "463740686",
+        "twitch_name": "brennolucas"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186281,
+        "twitch_id": "30400735",
+        "twitch_name": "robertluvsgames"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186298,
+        "twitch_id": "29314000",
+        "twitch_name": "nazarein"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186302,
+        "twitch_id": "101914813",
+        "twitch_name": "rusted"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186337,
+        "twitch_id": "429355887",
+        "twitch_name": "affilatehosting4u"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186434,
+        "twitch_id": "463739368",
+        "twitch_name": "toreto7740"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186469,
+        "twitch_id": "74113766",
+        "twitch_name": "ranfujimiya"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186495,
+        "twitch_id": "110297736",
+        "twitch_name": "osccraig"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186497,
+        "twitch_id": "122112257",
+        "twitch_name": "etuldan"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186576,
+        "twitch_id": "13549081",
+        "twitch_name": "shaeman111"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186674,
+        "twitch_id": "153126341",
+        "twitch_name": "zythas"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186677,
+        "twitch_id": "463724743",
+        "twitch_name": "putkirito"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186679,
+        "twitch_id": "59582137",
+        "twitch_name": "carl_r"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186681,
+        "twitch_id": "463732104",
+        "twitch_name": "ahmido20"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186684,
+        "twitch_id": "62506759",
+        "twitch_name": "luispetter"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186686,
+        "twitch_id": "75551454",
+        "twitch_name": "boxislovee"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186688,
+        "twitch_id": "243956663",
+        "twitch_name": "1ammlg"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186691,
+        "twitch_id": "463720607",
+        "twitch_name": "lucile_emm"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186693,
+        "twitch_id": "189085834",
+        "twitch_name": "schroedinger_helldings"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186695,
+        "twitch_id": "53039285",
+        "twitch_name": "kovadam"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186698,
+        "twitch_id": "47468914",
+        "twitch_name": "vaterholl"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186700,
+        "twitch_id": "463734825",
+        "twitch_name": "kratzeisblau"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186702,
+        "twitch_id": "30193712",
+        "twitch_name": "untitled2jc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186704,
+        "twitch_id": "463732449",
+        "twitch_name": "perfectgod_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186707,
+        "twitch_id": "463735865",
+        "twitch_name": "cae_marx13"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186709,
+        "twitch_id": "463736696",
+        "twitch_name": "lopeskb"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186711,
+        "twitch_id": "181775125",
+        "twitch_name": "cm0pk"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186714,
+        "twitch_id": "53932487",
+        "twitch_name": "theshadowsoldiers"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186716,
+        "twitch_id": "233145875",
+        "twitch_name": "grandadisgaming"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186718,
+        "twitch_id": "463733269",
+        "twitch_name": "valentino_y"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186721,
+        "twitch_id": "152584760",
+        "twitch_name": "barbowser25"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186723,
+        "twitch_id": "463707068",
+        "twitch_name": "zenit4929611"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186725,
+        "twitch_id": "177684039",
+        "twitch_name": "sokerewa"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186728,
+        "twitch_id": "258507983",
+        "twitch_name": "chattranslator"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186730,
+        "twitch_id": "149697752",
+        "twitch_name": "mortie_play"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186732,
+        "twitch_id": "463649025",
+        "twitch_name": "ftoo1410"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186735,
+        "twitch_id": "108473928",
+        "twitch_name": "overthere86"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186737,
+        "twitch_id": "463733476",
+        "twitch_name": "deniro13"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186739,
+        "twitch_id": "32161766",
+        "twitch_name": "agent347"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186742,
+        "twitch_id": "256783379",
+        "twitch_name": "teaconspiracy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186744,
+        "twitch_id": "463732494",
+        "twitch_name": "yukisamahs"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186746,
+        "twitch_id": "36428409",
+        "twitch_name": "demofreak"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186749,
+        "twitch_id": "463730550",
+        "twitch_name": "maxou_pixou62"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186751,
+        "twitch_id": "37452266",
+        "twitch_name": "kaltesbierchen"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186753,
+        "twitch_id": "123996097",
+        "twitch_name": "noblewolf"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186756,
+        "twitch_id": "114630483",
+        "twitch_name": "feelsgoodguyjack"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186758,
+        "twitch_id": "36460049",
+        "twitch_name": "gorgaar"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186760,
+        "twitch_id": "440838376",
+        "twitch_name": "jelledoag"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186763,
+        "twitch_id": "241790703",
+        "twitch_name": "iceleopard02"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186765,
+        "twitch_id": "24004646",
+        "twitch_name": "ployl"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186767,
+        "twitch_id": "41809322",
+        "twitch_name": "smiterholic"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186770,
+        "twitch_id": "463724275",
+        "twitch_name": "notb3n1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186772,
+        "twitch_id": "463729394",
+        "twitch_name": "clutchpencil3"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186774,
+        "twitch_id": "463732995",
+        "twitch_name": "mattew2007"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186777,
+        "twitch_id": "462924063",
+        "twitch_name": "ikloooodi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186779,
+        "twitch_id": "463732711",
+        "twitch_name": "prestonvfuggi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186781,
+        "twitch_id": "463733867",
+        "twitch_name": "sir_titanox_122"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186784,
+        "twitch_id": "279830048",
+        "twitch_name": "bujiii10"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186786,
+        "twitch_id": "463718950",
+        "twitch_name": "ray__ko"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186788,
+        "twitch_id": "463731478",
+        "twitch_name": "hyperbol"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186791,
+        "twitch_id": "436390543",
+        "twitch_name": "vayes3000"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186793,
+        "twitch_id": "190055096",
+        "twitch_name": "ady84"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186795,
+        "twitch_id": "463730877",
+        "twitch_name": "daisysn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186798,
+        "twitch_id": "463731595",
+        "twitch_name": "myguy_bman"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186800,
+        "twitch_id": "463700627",
+        "twitch_name": "montignaque"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186802,
+        "twitch_id": "463723224",
+        "twitch_name": "jlnichols"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186805,
+        "twitch_id": "225271",
+        "twitch_name": "camblack"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186807,
+        "twitch_id": "92380075",
+        "twitch_name": "blackgarden"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186809,
+        "twitch_id": "463729734",
+        "twitch_name": "realeliplay"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186812,
+        "twitch_id": "463731424",
+        "twitch_name": "ruben1234567890123455"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186814,
+        "twitch_id": "462377228",
+        "twitch_name": "gang07"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186816,
+        "twitch_id": "463563116",
+        "twitch_name": "dr_wochenende"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186819,
+        "twitch_id": "463706945",
+        "twitch_name": "luebzerbande"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186821,
+        "twitch_id": "463731866",
+        "twitch_name": "progahdtvy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186823,
+        "twitch_id": "158779538",
+        "twitch_name": "burakkor3420"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186826,
+        "twitch_id": "463727303",
+        "twitch_name": "vanessa35"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186828,
+        "twitch_id": "463721758",
+        "twitch_name": "federixu"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186830,
+        "twitch_id": "463728073",
+        "twitch_name": "suley11"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186833,
+        "twitch_id": "463729750",
+        "twitch_name": "harshitbansal"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186835,
+        "twitch_id": "65034466",
+        "twitch_name": "priestbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186837,
+        "twitch_id": "463721562",
+        "twitch_name": "elchewin_"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186840,
+        "twitch_id": "463728128",
+        "twitch_name": "ramazansadi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186842,
+        "twitch_id": "62972528",
+        "twitch_name": "tjsbot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186844,
+        "twitch_id": "66248276",
+        "twitch_name": "roosterella"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186847,
+        "twitch_id": "258937439",
+        "twitch_name": "the4ss4ssin360"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186849,
+        "twitch_id": "68054898",
+        "twitch_name": "airwavexxl"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186851,
+        "twitch_id": "214523672",
+        "twitch_name": "alloy0101"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186854,
+        "twitch_id": "463725622",
+        "twitch_name": "matoszek"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186856,
+        "twitch_id": "127909751",
+        "twitch_name": "pegasey"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186858,
+        "twitch_id": "72514695",
+        "twitch_name": "dentei94"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186860,
+        "twitch_id": "55045813",
+        "twitch_name": "itsmurxer"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186863,
+        "twitch_id": "451719363",
+        "twitch_name": "fidelito128"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186865,
+        "twitch_id": "463727344",
+        "twitch_name": "envoy_gaia"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186867,
+        "twitch_id": "463724790",
+        "twitch_name": "lumfoz"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186870,
+        "twitch_id": "210595485",
+        "twitch_name": "forsenhobo"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186872,
+        "twitch_id": "463719677",
+        "twitch_name": "ksancor1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186874,
+        "twitch_id": "463724944",
+        "twitch_name": "ton_kung001"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186877,
+        "twitch_id": "463726633",
+        "twitch_name": "greta_gerls2019"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186879,
+        "twitch_id": "28515778",
+        "twitch_name": "tizzydizzy"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186881,
+        "twitch_id": "463721634",
+        "twitch_name": "vexxe9"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186884,
+        "twitch_id": "48466194",
+        "twitch_name": "gennyxtc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186886,
+        "twitch_id": "463725075",
+        "twitch_name": "arseniybot200"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186888,
+        "twitch_id": "101364660",
+        "twitch_name": "oberlui"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186891,
+        "twitch_id": "463725854",
+        "twitch_name": "codecreaunchaineytetjstoe"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186893,
+        "twitch_id": "463726942",
+        "twitch_name": "artemis_2003"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186895,
+        "twitch_id": "125694839",
+        "twitch_name": "nexangeluss"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186898,
+        "twitch_id": "428568259",
+        "twitch_name": "tw_ollie"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186900,
+        "twitch_id": "462105356",
+        "twitch_name": "tw_o11ie"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186902,
+        "twitch_id": "462104615",
+        "twitch_name": "tw_0llie"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186905,
+        "twitch_id": "463707104",
+        "twitch_name": "lulhule"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186907,
+        "twitch_id": "463717494",
+        "twitch_name": "blak092"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186909,
+        "twitch_id": "463723009",
+        "twitch_name": "daniel_flerken"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186912,
+        "twitch_id": "75023465",
+        "twitch_name": "gash360332"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186914,
+        "twitch_id": "53771040",
+        "twitch_name": "instability01"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186916,
+        "twitch_id": "150444268",
+        "twitch_name": "brosboel"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186919,
+        "twitch_id": "95522713",
+        "twitch_name": "myrtn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186921,
+        "twitch_id": "65231648",
+        "twitch_name": "dughansen"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186923,
+        "twitch_id": "59172770",
+        "twitch_name": "pzyber"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186926,
+        "twitch_id": "83365039",
+        "twitch_name": "grandmazc00kies"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186928,
+        "twitch_id": "64343039",
+        "twitch_name": "eskimo_girl66"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186930,
+        "twitch_id": "115959425",
+        "twitch_name": "guteren"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186933,
+        "twitch_id": "38819405",
+        "twitch_name": "poespas1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186935,
+        "twitch_id": "157295593",
+        "twitch_name": "crusteds"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186937,
+        "twitch_id": "463716904",
+        "twitch_name": "xmatus22"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186940,
+        "twitch_id": "463718872",
+        "twitch_name": "monorrea2000"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186942,
+        "twitch_id": "463724806",
+        "twitch_name": "ghostsblacke"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186944,
+        "twitch_id": "463718701",
+        "twitch_name": "loisiglesias"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186946,
+        "twitch_id": "463722984",
+        "twitch_name": "evansnt"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186949,
+        "twitch_id": "463724485",
+        "twitch_name": "osman777"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186951,
+        "twitch_id": "463722331",
+        "twitch_name": "nashaa_p1toh"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186953,
+        "twitch_id": "77574365",
+        "twitch_name": "fewo11"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186956,
+        "twitch_id": "463719870",
+        "twitch_name": "andreystoneworker"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186958,
+        "twitch_id": "463716021",
+        "twitch_name": "soporra"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186960,
+        "twitch_id": "90652923",
+        "twitch_name": "n0sferia"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186963,
+        "twitch_id": "463721929",
+        "twitch_name": "abdulkd99"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186965,
+        "twitch_id": "463712674",
+        "twitch_name": "milester_1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186967,
+        "twitch_id": "463721301",
+        "twitch_name": "x_n_i_c_o_x"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186970,
+        "twitch_id": "463721093",
+        "twitch_name": "windowserror405"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186972,
+        "twitch_id": "463715445",
+        "twitch_name": "kiritp28"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186974,
+        "twitch_id": "40311750",
+        "twitch_name": "fipspilot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186977,
+        "twitch_id": "463720272",
+        "twitch_name": "julianproaso7"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186979,
+        "twitch_id": "463713697",
+        "twitch_name": "kauansoares14"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186981,
+        "twitch_id": "463181016",
+        "twitch_name": "25delibulutbebegim77"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186984,
+        "twitch_id": "463710586",
+        "twitch_name": "verserker888_office"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186986,
+        "twitch_id": "234659255",
+        "twitch_name": "nebulat"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186988,
+        "twitch_id": "463718478",
+        "twitch_name": "ssellas"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186991,
+        "twitch_id": "463711686",
+        "twitch_name": "emilijan_xhepa"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186993,
+        "twitch_id": "136251115",
+        "twitch_name": "obaille"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186995,
+        "twitch_id": "52676914",
+        "twitch_name": "serioustime"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569186998,
+        "twitch_id": "51568058",
+        "twitch_name": "justpatricktv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187000,
+        "twitch_id": "86621952",
+        "twitch_name": "ritzenspalt"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187002,
+        "twitch_id": "114074290",
+        "twitch_name": "imdamermaidqueen"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187005,
+        "twitch_id": "463718621",
+        "twitch_name": "mainguroelperroyt"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187007,
+        "twitch_id": "463715970",
+        "twitch_name": "fratta_luca"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187009,
+        "twitch_id": "463713510",
+        "twitch_name": "kevin993d"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187012,
+        "twitch_id": "463667580",
+        "twitch_name": "portinho121200"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187014,
+        "twitch_id": "463716860",
+        "twitch_name": "codigo_silver"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187016,
+        "twitch_id": "463711728",
+        "twitch_name": "rossyeye"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187019,
+        "twitch_id": "463717884",
+        "twitch_name": "jollybumbum"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187021,
+        "twitch_id": "463717559",
+        "twitch_name": "julek567"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187025,
+        "twitch_id": "463705508",
+        "twitch_name": "maticracken"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187028,
+        "twitch_id": "40070820",
+        "twitch_name": "profi_r12"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187030,
+        "twitch_id": "418402070",
+        "twitch_name": "malachit49"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187032,
+        "twitch_id": "72842458",
+        "twitch_name": "echosturm"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187035,
+        "twitch_id": "463714786",
+        "twitch_name": "nyikomvp"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187037,
+        "twitch_id": "45494458",
+        "twitch_name": "jansaruzi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187039,
+        "twitch_id": "9362768",
+        "twitch_name": "killerapp23"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187042,
+        "twitch_id": "25473799",
+        "twitch_name": "xju3lzx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187044,
+        "twitch_id": "188378454",
+        "twitch_name": "lil_loc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187046,
+        "twitch_id": "463707183",
+        "twitch_name": "twitch_lordsoop"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187049,
+        "twitch_id": "463711877",
+        "twitch_name": "mathlamenace"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187051,
+        "twitch_id": "463704543",
+        "twitch_name": "aslan16080"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187053,
+        "twitch_id": "463712924",
+        "twitch_name": "akhi596"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187056,
+        "twitch_id": "22571002",
+        "twitch_name": "jakken2"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187058,
+        "twitch_id": "463715315",
+        "twitch_name": "2ood6"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187060,
+        "twitch_id": "115083819",
+        "twitch_name": "neeley81"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187063,
+        "twitch_id": "463714100",
+        "twitch_name": "ismaellyl25"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187065,
+        "twitch_id": "463707288",
+        "twitch_name": "abbas0"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187067,
+        "twitch_id": "271867300",
+        "twitch_name": "antonioricoromero"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187070,
+        "twitch_id": "100768857",
+        "twitch_name": "don_pildos"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187072,
+        "twitch_id": "463712994",
+        "twitch_name": "federico131192"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187074,
+        "twitch_id": "463715977",
+        "twitch_name": "endry1710"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187077,
+        "twitch_id": "463711900",
+        "twitch_name": "cony6556"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187079,
+        "twitch_id": "463715628",
+        "twitch_name": "alfixn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187081,
+        "twitch_id": "463711375",
+        "twitch_name": "muekita28"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187084,
+        "twitch_id": "463715794",
+        "twitch_name": "msf_heartlxss"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187086,
+        "twitch_id": "274106882",
+        "twitch_name": "xk3nplayx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187088,
+        "twitch_id": "89280311",
+        "twitch_name": "tipeeebot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187090,
+        "twitch_id": "463680160",
+        "twitch_name": "mcjavi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187093,
+        "twitch_id": "463701540",
+        "twitch_name": "rewifan3000000"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187095,
+        "twitch_id": "463706597",
+        "twitch_name": "deven0hnvr"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187097,
+        "twitch_id": "463711455",
+        "twitch_name": "wendy_0704"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187100,
+        "twitch_id": "463711963",
+        "twitch_name": "komatot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187102,
+        "twitch_id": "139256920",
+        "twitch_name": "elefanteneinhorn"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187104,
+        "twitch_id": "175402530",
+        "twitch_name": "myst_thea"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187107,
+        "twitch_id": "41247144",
+        "twitch_name": "elbarocco"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187109,
+        "twitch_id": "31729506",
+        "twitch_name": "xzvelocityzx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187111,
+        "twitch_id": "40526425",
+        "twitch_name": "supersharc"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187114,
+        "twitch_id": "462543956",
+        "twitch_name": "sinvaltab901005"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187116,
+        "twitch_id": "463711581",
+        "twitch_name": "keiserigz"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187118,
+        "twitch_id": "463712723",
+        "twitch_name": "sheldogthebeast13"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187121,
+        "twitch_id": "119732722",
+        "twitch_name": "e_botas"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187123,
+        "twitch_id": "41045476",
+        "twitch_name": "sneakypete1"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187125,
+        "twitch_id": "463711677",
+        "twitch_name": "jojobvb"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187128,
+        "twitch_id": "463710595",
+        "twitch_name": "heyjuli736"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187130,
+        "twitch_id": "463691368",
+        "twitch_name": "not_your_gardian_angel"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187132,
+        "twitch_id": "463710588",
+        "twitch_name": "marnus_2"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187134,
+        "twitch_id": "463712072",
+        "twitch_name": "soar_zite"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187137,
+        "twitch_id": "463701593",
+        "twitch_name": "kruscher89"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187139,
+        "twitch_id": "463695826",
+        "twitch_name": "olivka14"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187142,
+        "twitch_id": "463703555",
+        "twitch_name": "btw3458"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187144,
+        "twitch_id": "463710769",
+        "twitch_name": "lapsky7"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187146,
+        "twitch_id": "261089573",
+        "twitch_name": "razgriztypezero"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187148,
+        "twitch_id": "91179688",
+        "twitch_name": "appledcs"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187151,
+        "twitch_id": "422895901",
+        "twitch_name": "victoriz0"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187153,
+        "twitch_id": "97109108",
+        "twitch_name": "thomasdebaeke"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187155,
+        "twitch_id": "400988072",
+        "twitch_name": "lotfat"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187158,
+        "twitch_id": "463704514",
+        "twitch_name": "woo2gaming7777"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187160,
+        "twitch_id": "463646906",
+        "twitch_name": "ravengershadow"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187162,
+        "twitch_id": "47290391",
+        "twitch_name": "alttp"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187165,
+        "twitch_id": "88223126",
+        "twitch_name": "sdiminisher"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187167,
+        "twitch_id": "463704316",
+        "twitch_name": "0726juli"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187169,
+        "twitch_id": "165994664",
+        "twitch_name": "hentai_is_heaven"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187172,
+        "twitch_id": "278009694",
+        "twitch_name": "mindbreak_hentai"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187174,
+        "twitch_id": "463704209",
+        "twitch_name": "oursonlonic"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187176,
+        "twitch_id": "463707757",
+        "twitch_name": "nacibatel"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187179,
+        "twitch_id": "463707035",
+        "twitch_name": "maxim050303"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187181,
+        "twitch_id": "183754872",
+        "twitch_name": "limoh"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187183,
+        "twitch_id": "463708754",
+        "twitch_name": "jannibanni1337"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187186,
+        "twitch_id": "463709069",
+        "twitch_name": "super_juha"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187188,
+        "twitch_id": "463698715",
+        "twitch_name": "pedrinhoprominecretf"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187190,
+        "twitch_id": "463708086",
+        "twitch_name": "zuschauer_schubi"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187193,
+        "twitch_id": "419615534",
+        "twitch_name": "boarderbv"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187195,
+        "twitch_id": "418867015",
+        "twitch_name": "blesib"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187197,
+        "twitch_id": "418859205",
+        "twitch_name": "avidinl"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187200,
+        "twitch_id": "418821311",
+        "twitch_name": "darnleyx"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187202,
+        "twitch_id": "460700469",
+        "twitch_name": "huskb"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187204,
+        "twitch_id": "418352873",
+        "twitch_name": "egestq"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187206,
+        "twitch_id": "463138606",
+        "twitch_name": "parasitez"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569187209,
+        "twitch_id": "463138409",
+        "twitch_name": "magnanw"
     }
 ]
