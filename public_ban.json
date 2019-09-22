@@ -868,5 +868,17 @@
         "timestamp": 1566246616,
         "twitch_id": "84945193",
         "twitch_name": "lilmackibot"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569183051,
+        "twitch_id": "105166207",
+        "twitch_name": "streamlabs"
+    },
+    {
+        "reason": "bot_account",
+        "timestamp": 1569183290,
+        "twitch_id": "188655263",
+        "twitch_name": "alfredjudokus817"
     }
 ]
