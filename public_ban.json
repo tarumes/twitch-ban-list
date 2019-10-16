@@ -255,7 +255,7 @@
         "reason": "bot_account",
         "timestamp": 1560837934,
         "twitch_id": "69142710",
-        "twitch_name": "unixchat"
+        "twitch_name": "unixcf"
     },
     {
         "reason": "bot_account",
@@ -2115,7 +2115,7 @@
         "reason": "bot_account",
         "timestamp": 1569185448,
         "twitch_id": "71815505",
-        "twitch_name": "thomasmemesxd"
+        "twitch_name": "maxineee_"
     },
     {
         "reason": "bot_account",
@@ -2217,7 +2217,7 @@
         "reason": "bot_account",
         "timestamp": 1569185495,
         "twitch_id": "446686201",
-        "twitch_name": "chaoticstupidd36"
+        "twitch_name": "chaoscrew37"
     },
     {
         "reason": "bot_account",
@@ -3069,7 +3069,7 @@
         "reason": "bot_account",
         "timestamp": 1569186721,
         "twitch_id": "152584760",
-        "twitch_name": "barbowser25"
+        "twitch_name": "drianu250"
     },
     {
         "reason": "bot_account",
@@ -3753,7 +3753,7 @@
         "reason": "bot_account",
         "timestamp": 1569186986,
         "twitch_id": "234659255",
-        "twitch_name": "nebulat"
+        "twitch_name": "henryrene"
     },
     {
         "reason": "bot_account",
@@ -4324,5 +4324,11 @@
         "timestamp": 1569187209,
         "twitch_id": "463138409",
         "twitch_name": "magnanw"
+    },
+    {
+        "reason": "racist_writing",
+        "timestamp": 1571189366,
+        "twitch_id": "462728758",
+        "twitch_name": "9mmanaconda"
     }
 ]
