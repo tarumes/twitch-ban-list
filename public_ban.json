@@ -5425,14 +5425,14 @@
         "twitch_name": "thundjar"
     },
     {
-        "channel": "unknown",
+        "channel": null,
         "reason": "sexual_requests",
         "timestamp": 1575498431,
         "twitch_id": "230568979",
         "twitch_name": "yasinbmd"
     },
     {
-        "channel": "unknown",
+        "channel": null,
         "reason": "trolling",
         "timestamp": 1575498463,
         "twitch_id": "267829702",
