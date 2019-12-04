@@ -3231,7 +3231,7 @@
         "reason": "bot_account",
         "timestamp": 1569185850,
         "twitch_id": "447685927",
-        "twitch_name": "battlevsviewers"
+        "twitch_name": "playwithviewersbot"
     },
     {
         "channel": null,
@@ -5352,7 +5352,7 @@
         "reason": "trolling",
         "timestamp": 1574678517,
         "twitch_id": "457415448",
-        "twitch_name": "alvinshultes"
+        "twitch_name": "juliovasquezpapi"
     },
     {
         "channel": null,
@@ -5423,5 +5423,19 @@
         "timestamp": 1574678755,
         "twitch_id": "435656330",
         "twitch_name": "thundjar"
+    },
+    {
+        "channel": "unknown",
+        "reason": "sexual_requests",
+        "timestamp": 1575498431,
+        "twitch_id": "230568979",
+        "twitch_name": "yasinbmd"
+    },
+    {
+        "channel": "unknown",
+        "reason": "trolling",
+        "timestamp": 1575498463,
+        "twitch_id": "267829702",
+        "twitch_name": "not_arslan"
     }
 ]
